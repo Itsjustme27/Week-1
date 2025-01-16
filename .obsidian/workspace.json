@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "48b62f68ec936ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d2ad8a11081ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42576d4518fe11a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup"
+            }
+          },
+          {
+            "id": "18a751a008b2f29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconnaissance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reconnaissance"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8fd014f8abb8094",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7452457b5e4ba3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc44725799df3e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70cfd908c1e5135f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe62f6bfc74a8650",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "491e381ed311ad70",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e298e80e57b761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23234a8a7228e47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reconnaissance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reconnaissance"
+            }
+          },
+          {
+            "id": "cb312cbda4f576d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reconnaissance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reconnaissance"
+            }
+          },
+          {
+            "id": "6e9920fe1475b3ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de161a15f7931508",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reconnaissance.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reconnaissance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18a751a008b2f29c",
+  "lastOpenFiles": [
+    "assets/screenshot_2025-01-16_09-47-29.png",
+    "assets/screenshot_2025-01-16_09-41-54.png",
+    "assets/screenshot_2025-01-16_09-38-37.png",
+    "assets/screenshot_2025-01-16_09-36-39.png",
+    "assets/screenshot_2025-01-16_09-35-09.png",
+    "assets/screenshot_2025-01-16_09-30-25.png",
+    "assets",
+    "Setup.md",
+    "Reconnaissance.md",
+    "Untitled",
+    "Draft.md",
+    "screenshot_2025-01-16_09-47-29.png",
+    "screenshot_2025-01-16_09-41-54.png",
+    "screenshot_2025-01-16_09-38-37.png",
+    "screenshot_2025-01-16_09-36-39.png",
+    "screenshot_2025-01-16_09-35-09.png"
+  ]
+}
