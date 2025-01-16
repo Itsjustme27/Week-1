@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reconnaissance.md",
+                "file": "Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reconnaissance"
+              "title": "Setup"
             }
           }
         ],
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "491e381ed311ad70",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reconnaissance.md",
+                "file": "Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reconnaissance"
+              "title": "Backlinks for Setup"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reconnaissance.md"
+                "file": "Setup.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Reconnaissance"
+              "title": "Outline of Setup"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "18a751a008b2f29c",
   "lastOpenFiles": [
+    "Reconnaissance.md",
     "assets/screenshot_2025-01-16_09-47-29.png",
     "assets/screenshot_2025-01-16_09-41-54.png",
     "assets/screenshot_2025-01-16_09-38-37.png",
@@ -187,13 +188,11 @@
     "assets/screenshot_2025-01-16_09-30-25.png",
     "assets",
     "Setup.md",
-    "Reconnaissance.md",
     "Untitled",
     "Draft.md",
     "screenshot_2025-01-16_09-47-29.png",
     "screenshot_2025-01-16_09-41-54.png",
     "screenshot_2025-01-16_09-38-37.png",
-    "screenshot_2025-01-16_09-36-39.png",
-    "screenshot_2025-01-16_09-35-09.png"
+    "screenshot_2025-01-16_09-36-39.png"
   ]
 }
